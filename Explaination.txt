@@ -1,0 +1,7 @@
+Defense List-	if the number is 2 then that type will do double the damage to that pokemon in a fight
+		if the number is .5 then that type will do half the damage to that pokemon in a fight
+		if the number is .25 then that type will do very little damage to that pokemon in a fight
+
+Offense List-	if the number is 2 then that type will receive double the damage from the pokemon in a fight
+		if the number is .5 then that type will receive half the damage from the pokemon in a fight
+		if the number is .25 thn that type will receive very little damage from that pokemon in a 			fight.
